@@ -1,6 +1,6 @@
 import React from 'react'
-const firstName = ['M', 'O', 'H', 'D', '.', 'R', 'A', 'H', 'A', 'T', ' B', 'I', 'N']
-const lastName = ['A', 'B', 'D', 'U', 'L', 'L', 'A', 'H']
+const firstName = ['M', 'o', 'h', 'd', '.', 'R', 'a', 'h', 'a', 't', ' B', 'i', 'n']
+const lastName = ['A', 'b', 'd', 'u', 'l', 'l', 'a', 'h']
 const DeveloperName = () => {
   return (
     <h1 className='md:leading-tight'>
