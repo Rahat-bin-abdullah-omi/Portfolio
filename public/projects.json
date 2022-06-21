@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/1JSJqT1/Electric-tools.png",
+    "title": "Electric-Tools",
+    "description": "Electric Parts Manufacturer Website whose sole purpose is to take orders from different clients.",
+    "features": [
+      "Implemented Admin feature in the Dashboard, where admin can perform various kinds of operation like add a new product, manage products, manage orders from clients and make other users admin.",
+      "Used firebase for authentication (both email and google sign-in were implemented) purposes.",
+      "Used MongoDB for the Backend Database and Express JS for developing the Backend Server."
+    ],
+    "tags": [
+      "reactjs",
+      "tailwindcss",
+      "react-router-dom",
+      "firebase",
+      "daisyui",
+      "react-query",
+      "react-firebase-hooks"
+    ],
+    "liveUrl": "https://tools-a576c.web.app/",
+    "screenShots": [
+      "https://i.ibb.co/1JSJqT1/Electric-tools.png",
+      "https://i.ibb.co/0fC9C24/Electric-tools-login.png",
+      "https://i.ibb.co/TWztsrc/Electric-tools-manage.png",
+      "https://i.ibb.co/cgPvvZf/Electric-tools-review.png"
+    ],
+    "clientRepo": "https://github.com/Rahat-bin-abdullah-omi/Electric-Tools-Client",
+    "serverRepo": "https://github.com/Rahat-bin-abdullah-omi/Electric-Tools-Server"
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/JjkWPWw/posdash.png",
+    "title": "POSDash",
+    "description": "Warehouse Management Website for managing products.",
+    "features": [
+      "Logged in users can add new cars and manage product inventories.",
+      "Most popular offer shown in the Banner and products shown in the Inventory items.",
+      "There is a section for review from the customers",
+      "Used firebase for authentication (both email and google sign-in were implemented) purposes and MongoDB as a backend database."
+    ],
+    "tags": [
+      "reactjs",
+      "tailwindcss",
+      "react-router-dom",
+      "firebase",
+      "react-query",
+      "react-firebase-hooks"
+    ],
+    "liveUrl": "https://posdash-37746.web.app/",
+    "screenShots": [
+      "https://i.ibb.co/JjkWPWw/posdash.png",
+      "https://i.ibb.co/CHbQ9d1/posdash-review.png",
+      "https://i.ibb.co/CbDvHVH/posdash-manage-items.png",
+      "https://i.ibb.co/txHkHDb/posdash-add-items.png"
+    ],
+    "clientRepo": "https://github.com/Rahat-bin-abdullah-omi/POSDash-Client",
+    "serverRepo": "https://github.com/Rahat-bin-abdullah-omi/POSDash-Server"
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/m07V1Gb/Flower-archive.png",
+    "title": "Flower Archive",
+    "description": "It's an E-commerce Website for selling various kinds of flower.",
+    "features": [
+      "Cart system is implemented where users can add an item to their cart and checkout.",
+      "Used firebase for both authentication (both email and google sign-in were implemented) and firestore database used as a backend database.",
+      "There is a blog section where described some questions and answers about firebase",
+      "The website is designed with the help of styled-components package."
+    ],
+    "tags": [
+      "reactjs",
+      "styled-components",
+      "react-router-dom",
+      "firebase",
+      "tailwind css"
+    ],
+    "liveUrl": "https://flouriest-archive.web.app/",
+    "screenShots": [
+      "https://i.ibb.co/m07V1Gb/Flower-archive.png",
+      "https://i.ibb.co/y47m0sT/Flower-archive-services.png",
+      "https://i.ibb.co/3pLprQ8/Flower-archive-checkout.png",
+      "https://i.ibb.co/HXrn66B/Flower-archive-contact.png"
+    ],
+    "clientRepo": "https://github.com/Rahat-bin-abdullah-omi/flower-archive"
+  }
+]
